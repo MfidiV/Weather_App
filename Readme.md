@@ -20,7 +20,7 @@ Before running the application, ensure you have the following:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/weather-app.git
+    git clone https://github.com/MfidiV/Weather_App.git
     cd weather-app
     ```
 
